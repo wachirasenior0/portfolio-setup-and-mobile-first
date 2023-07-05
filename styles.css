@@ -6,7 +6,7 @@
   flex-shrink: 0;
   box-sizing: border-box;
   display: flex;
-  font-family: sans-serif Poppins;
+  font-family: sans-serif, Poppins;
   color: rgba(96, 112, 255, 1);
   text-align: center;
   font-weight: 700;
@@ -53,7 +53,7 @@
   background-image: url(header-background-mobile.png);
   background-image: url(header-shapes\ mobile.png);
   text-align: left;
-  font-family: sans-serif Poppins;
+  font-family: sans-serif, Poppins;
   width: 375px;
   height: 604px;
   top: 92px;
