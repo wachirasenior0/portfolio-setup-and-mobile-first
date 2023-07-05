@@ -1,15 +1,14 @@
 <a name="readme-top">Portfolio-Setup-and-Mobile-First</a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+    <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>READMe File</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -25,7 +24,6 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
-<!-- PROJECT DESCRIPTION -->
 
 <a name="about-project">portfolio-setup-and-mobile-first</a>
 
@@ -92,14 +90,14 @@ git-clone
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Mobile verision
-contact form from pair programing session 
-Desktop version
-Application deploy 
-Accesibility evaluation 
-Mobile Menu
-Details Modal
-contact form 
+- Mobile verision
+- contact form from pair programing session 
+- Desktop version
+- Application deploy 
+- Accesibility evaluation 
+- Mobile Menu
+- Details Modal
+- contact form 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
