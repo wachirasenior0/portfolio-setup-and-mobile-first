@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .toolbar-dark-compact-box {
   width: 375px;
   height: 48px;
