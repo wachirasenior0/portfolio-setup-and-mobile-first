@@ -23,8 +23,8 @@ body {
   align-items: center;
   justify-content: space-between;
   padding-bottom: 4;
-  padding-left: 12;
-  padding-right: 24;
+  padding-left: 12px;
+  padding-right: 24px;
   padding-top: 4;
 }
 
@@ -32,21 +32,21 @@ body {
   flex-grow: 1;
   align-items: center;
   display: flex;
-  padding-right: 12;
-  padding-left: 12;
-  padding-bottom: 10;
-  padding-top: 10;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   box-sizing: border-box;
 }
 
 .toolbar-dark-compact-my-logo {
   width: 76;
   line-height: 20px;
-  font-size: 18;
+  font-size: 18px;
 }
 
 .toolbar-dark-compact-normal-button-tertiary-enabled {
-  padding: 8;
+  padding: 8px;
   border-radius: 8;
   align-items: flex-start;
   display: flex;
@@ -70,11 +70,11 @@ body {
   align-items: flex-start;
   flex-direction: column;
   display: inline-flex;
-  gap: 12;
-  padding-right: 24;
-  padding-left: 24;
-  padding-bottom: 114;
-  padding-top: 114;
+  gap: 12px;
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-bottom: 11px;
+  padding-top: 114px;
   box-sizing: border-box;
 }
 
