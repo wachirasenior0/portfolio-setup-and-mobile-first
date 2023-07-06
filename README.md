@@ -1,15 +1,13 @@
 <a name="readme-top">Portfolio-Setup-and-Mobile-First</a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+    <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>READMe File</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -22,10 +20,11 @@
   - [usage](#usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 <a name="about-project">portfolio-setup-and-mobile-first</a>
 
@@ -37,7 +36,6 @@ This project marks the begining of my reposnive professional site. It is made pu
 HTML 
 CSS
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -46,7 +44,6 @@ The headline section of the repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -74,7 +71,6 @@ To run the project, execute the following command:
 git-clone
 
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -88,23 +84,28 @@ git-clone
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Mobile verision
-contact form from pair programing session 
-Desktop version
-Application deploy 
-Accesibility evaluation 
-Mobile Menu
-Details Modal
-contact form 
+- Mobile verision
+- contact form from pair programing session 
+- Desktop version
+- Application deploy 
+- Accesibility evaluation 
+- Mobile Menu
+- Details Modal
+- contact form 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🤝 Contributing <a name="contributing"></a>
 
-<!-- SUPPORT -->
+I welcome criticism! Check out the project.
+
+Feel free to check the [portfolio-setup-and-mobile-first]( https://github.com/wachirasenior0/portfolio-setup-and-mobile-first.git
+).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -112,9 +113,12 @@ leave us a five star ⭐️⭐️⭐️⭐️⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for making my dream come true. Continue supporting my work
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📝 License <a name="license"></a>
+
+This project is [MIT](LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
