@@ -3,9 +3,11 @@
 }
 
 body {
-  display: block; 
-  padding: 0;
-  margin: 8;
+  display: flex;
+  font-family: poppins, sans-serif;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 375px;
 }
 
 .toolbar-dark-compact-box {
@@ -86,6 +88,9 @@ body {
   font-size: 40px;
   width: 327px;
   height: 150px;
+  display: inline;
+  text-align: left;
+
 }
 
 .headline-primary-text-1 {
