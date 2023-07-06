@@ -3,6 +3,7 @@
 }
 
 body {
+  padding: 0 auto;
   display: flex;
   font-family: poppins, sans-serif;
   flex-direction: column;
@@ -25,10 +26,10 @@ body {
   gap: 199;
   align-items: center;
   justify-content: space-between;
-  padding-bottom: 4;
+  padding-bottom: 4px;
   padding-left: 12px;
   padding-right: 24px;
-  padding-top: 4;
+  padding-top: 4px;
 }
 
 .toolbar-dark-compact-logo-placeholder {
@@ -43,7 +44,7 @@ body {
 }
 
 .toolbar-dark-compact-my-logo {
-  width: 76;
+  width: 76px;
   line-height: 20px;
   font-size: 18px;
 }
@@ -64,6 +65,7 @@ body {
 .headline-headline {
   background-image: url(header-background-mobile.png);
   background-image: url(header-shapes\ mobile.png);
+  background-position: auto;
   text-align: left;
   font-family: sans-serif, Poppins;
   width: 375px;
@@ -74,12 +76,11 @@ body {
   flex-direction: column;
   display: inline-flex;
   gap: 12px;
+  padding-bottom: 4px;
+  padding-left: 12px;
   padding-right: 24px;
-  padding-left: 24px;
-  padding-bottom: 11px;
-  padding-top: 114px;
-  box-sizing: border-box;
-}
+  padding-top: 4px;
+  }
 
 .headline-primary-text {
   color: rgba(23, 43, 77, 1);
@@ -90,6 +91,10 @@ body {
   height: 150px;
   display: inline;
   text-align: left;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 4px;
 }
 
 .headline-primary-text-1 {
@@ -99,12 +104,20 @@ body {
   font-size: 16px;
   width: 327px;
   height: 146px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 4px;
 }
 
 .headline-social-media {
   font-weight: 500;
   color: rgba(127, 140, 255, 1);
   gap: 16;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 4px;
 }
 
 .headline-supporting-text {
