@@ -138,3 +138,243 @@ body {
   gap: 16px;
   padding-inline-start: 0;
 }
+.portfolio {
+  height: 100vh;
+  border-bottom-left-radius: 100px;
+}
+
+.portfolio p {
+  padding-top: 5px;
+  color: #344563;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.portfolio h2 {
+  color: #7f8cff;
+  font-size: 16px;
+  padding-bottom: 8px;
+}
+
+.portfolio h1 {
+  padding-top: 90px;
+  font-size: 40px;
+  font-weight: 900;
+  color: #172b4d;
+}
+
+.icons {
+  padding-bottom: 20px;
+}
+
+.icons li a i {
+  color: #505f79;
+  margin-right: 22px;
+  font-size: 20px;
+}
+
+.works {
+  display: grid;
+  grid-template-columns: 1fr, 1fr;
+  padding-top: 120px;
+}
+
+.works-primary-text{
+    color: rgba(23, 43, 77, 1);
+    line-height: 44px;
+    font-weight: 700;
+    font-size: 32px;
+    width: 295px;
+    height: 36px;
+    display: inline;
+    text-align: left;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 24px;
+    padding-top: 4px;
+}
+
+.card-container {
+  border-radius: 16px;
+  border: 1px solid #dfe1e6;
+  margin-bottom: 40px;
+}
+
+.card {
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 16px;
+  margin: 16px;
+}
+
+.card h2 {
+  font-weight: 900;
+  color: rgba(23, 43, 77, 1);
+  font-size: 28px;
+}
+
+.card-client-list {
+  align-items: center;
+  list-style: none;
+  display: flex;
+  padding-inline-start: 0;
+  padding: 8px, 0px, 8px, 0px;
+  gap: 12px;
+}
+
+.card-client-list li {
+  padding-right: 6px;
+}
+
+.card-client-list h3 {
+  color: #344563;
+  font-size: 13px;
+}
+
+.card-client-list h4 {
+  color: #7a869a;
+  font-size: 13px;
+}
+
+.counter {
+  border-radius: 50%;
+  border: none;
+  width: 8px;
+  height: 8px;
+  background-color: rgba(193, 199, 208, 1);
+}
+
+.card-primarytext {
+  padding-top: 6px;
+  color: rgba(52, 69, 99, 1);
+  font-size: 15px;
+  font: poppins; 
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.tags {
+  padding: 4px 12px 4px 12px;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  gap: 8px;
+  list-style: none;
+  color: rgba(235, 235, 255, 1);
+  display: flex;
+  gap: 8px;
+  padding-inline-start: 0;
+}
+
+.tags li {
+  padding: 4px 12px 4px 12px;
+  color: rgba(96, 112, 255, 1);
+  background-color: #ebebff;
+  margin-right: 8px;
+  border-radius: 13px;
+}
+
+.card button {
+  padding: 6px;
+  color: #396df2;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #ffff;
+  border: 1px solid rgba(96, 112, 255, 1);
+  border-radius: 8px;
+  width: 40%;
+  margin-bottom: 10px;
+  gap: 10px;
+  border-top: 12px;
+  border-width: 126px;
+}
+
+
+.about {
+  border-top-right-radius: 100px;
+
+}
+.about-primary-text{
+  color: rgba(23, 43, 77, 1);
+  line-height: 44px;
+  font-weight: 700;
+  font-size: 32px;
+  width: 295px;
+  height: 36px;
+  display: inline;
+  text-align: left;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 4px;
+}
+
+.about-myself-social-media-icons {
+  list-style: none;
+  height: 20px;
+  width: 170px;
+  display: flex;
+  gap: 16px;
+  padding-inline-start: 0;
+}
+
+.about-myself {
+  padding-top: 60px;
+}
+
+.about-myself h2 {
+  font-size: 40px;
+  color: #172B4D;
+  line-height: 52px;
+}
+
+.about-myself p {
+  padding-top: 10px;
+  font-size: 16px;
+  color: #344563;
+  line-height: 24px;
+}
+
+.about-myself h3 {
+  padding-top: 15px;
+  color: #7f8cff;
+  font-size: 16px;
+  padding-bottom: 12px;
+}
+
+.about-myself button {
+  padding: 6px;
+  color: #396df2;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #ffff;
+  border: 1px solid #396df2;
+  border-radius: 13px;
+  width: 50%;
+  margin-bottom: 10px;
+}
+.about-primarytext {
+  padding-top: 6px;
+  color: rgba(52, 69, 99, 1);
+  font-size: 15px;
+  font: poppins; 
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.about-body {
+  width: 327px;
+  height: 72;
+  color: rgba(52, 69, 99, 1)
+}
+
+.language li {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  background-color: #acb7c3;
+  padding: 12px;
+  gap: 12px;
+}
