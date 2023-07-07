@@ -248,7 +248,7 @@ body {
   padding-top: 6px;
   color: rgba(52, 69, 99, 1);
   font-size: 15px;
-  font-style: sans-serif, Poppins;
+  font-style: sans-serif, poppins;
   font-weight: 400;
   line-height: 24px;
 }
@@ -356,7 +356,7 @@ body {
   padding-top: 6px;
   color: rgba(52, 69, 99, 1);
   font-size: 15px;
-  font-style: sans-serif, Poppins;
+  font-style: sans-serif, poppins;
   font-weight: 400;
   line-height: 24px;
 }
