@@ -138,6 +138,7 @@ body {
   gap: 16px;
   padding-inline-start: 0;
 }
+
 .portfolio {
   height: 100vh;
   border-bottom-left-radius: 100px;
@@ -179,19 +180,19 @@ body {
   padding-top: 120px;
 }
 
-.works-primary-text{
-    color: rgba(23, 43, 77, 1);
-    line-height: 44px;
-    font-weight: 700;
-    font-size: 32px;
-    width: 295px;
-    height: 36px;
-    display: inline;
-    text-align: left;
-    padding-bottom: 4px;
-    padding-left: 12px;
-    padding-right: 24px;
-    padding-top: 4px;
+.works-primary-text {
+  color: rgba(23, 43, 77, 1);
+  line-height: 44px;
+  font-weight: 700;
+  font-size: 32px;
+  width: 295px;
+  height: 36px;
+  display: inline;
+  text-align: left;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 24px;
+  padding-top: 4px;
 }
 
 .card-container {
@@ -218,7 +219,6 @@ body {
   list-style: none;
   display: flex;
   padding-inline-start: 0;
-  padding: 8px, 0px, 8px, 0px;
   gap: 12px;
 }
 
@@ -248,9 +248,8 @@ body {
   padding-top: 6px;
   color: rgba(52, 69, 99, 1);
   font-size: 15px;
-  font: poppins; 
+  font: sans-serif poppins;
   font-weight: 400;
-  font-size: 15px;
   line-height: 24px;
 }
 
@@ -263,7 +262,6 @@ body {
   list-style: none;
   color: rgba(235, 235, 255, 1);
   display: flex;
-  gap: 8px;
   padding-inline-start: 0;
 }
 
@@ -290,11 +288,10 @@ body {
   border-width: 126px;
 }
 
-
 .about {
   border-top-right-radius: 100px;
-
 }
+
 .about-primary-text{
   color: rgba(23, 43, 77, 1);
   line-height: 44px;
@@ -325,7 +322,7 @@ body {
 
 .about-myself h2 {
   font-size: 40px;
-  color: #172B4D;
+  color: #172b4d;
   line-height: 52px;
 }
 
@@ -354,20 +351,20 @@ body {
   width: 50%;
   margin-bottom: 10px;
 }
+
 .about-primarytext {
   padding-top: 6px;
   color: rgba(52, 69, 99, 1);
   font-size: 15px;
-  font: poppins; 
+  font: sans-serif poppins;
   font-weight: 400;
-  font-size: 15px;
   line-height: 24px;
 }
 
 .about-body {
   width: 327px;
   height: 72;
-  color: rgba(52, 69, 99, 1)
+  color: rgba(52, 69, 99, 1);
 }
 
 .language li {
