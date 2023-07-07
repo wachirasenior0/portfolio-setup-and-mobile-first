@@ -451,36 +451,34 @@ body {
 
 .about-body {
   color: rgba(37, 56, 88, 1);
-padding: 12;
-flex-direction: column;
-display: flex;
-gap: 12;
-box-sizing: border-box;
+  padding: 12;
+  flex-direction: column;
+  display: flex;
+  gap: 12;
+  box-sizing: border-box;
 }
 
 .technologies li {
-box-sizing: border-box;
-background-color: rgba(247, 247, 249, 1);
-display: flex;
-border-radius: 8;
-gap: 16;
-align-items: center;
-padding-bottom: 9;
-padding-left: 12;
-padding-right: 12;
-padding-top: 9;
-flex-grow: 1;
-line-height: 20px;
-font-size: 15;
-width: 215;
-height: 24;
-background-size: cover;
-background-position: center;
-border-color: white;
-border-width: 1;
-border-style: solid;
-border-radius: 9999;
-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: rgba(247, 247, 249, 1);
+  display: flex;
+  border-radius: 8;
+  gap: 16;
+  align-items: center;
+  padding-bottom: 9;
+  padding-left: 12;
+  padding-right: 12;
+  padding-top: 9;
+  flex-grow: 1;
+  line-height: 20px;
+  font-size: 15;
+  width: 215;
+  height: 24;
+  background-size: cover;
+  background-position: center;
+  border-color: white;
+  border-width: 1;
+  border-style: solid;
 }
 
 .list-item {
