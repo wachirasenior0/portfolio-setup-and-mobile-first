@@ -370,6 +370,16 @@ body {
   text-align: none;
 }
 
+.about-primary-text-0 {
+  color: rgba(23, 43, 77, 1);
+  line-height: 52px;
+  font-weight: 700;
+  font-size: 40px;
+  width: 327px;
+  height: 35px;
+  display: inline flex;
+}
+
 .about-primary-text-2 {
   color: rgba(52, 69, 99, 1);
   line-height: 24px;
@@ -378,7 +388,6 @@ body {
   width: 327px;
   height: 147px;
   display: inline flex;
-  
 }
 
 .about-myself-social-media-icons {
@@ -452,14 +461,8 @@ body {
   margin-right: 20px;
   background: #acb7c3;
   padding: 10px;
-  width: 303;
-  height: 67;
-  box-sizing: border-box;
   background-color: rgb(152, 152, 163);
-  display: flex;
-  border-radius: 8;
   gap: 16;
-  align-items: center;
   justify-content: space-between;
   padding-bottom: 9;
   padding-left: 12;
